@@ -1,11 +1,13 @@
 {
   "cli": {
-    "version": ">= 3.8.1"
+    "version": ">= 3.8.1",
+    "appVersionSource": "remote"
   },
   "build": {
     "production": {
       "channel": "production",
       "distribution": "store",
+      "autoIncrement": true,
       "pnpm": "9.12.3",
       "ios": {
         "image": "latest"
