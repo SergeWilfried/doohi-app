@@ -38,7 +38,7 @@ const BUNDLE_ID = 'com.obytes'; // ios bundle id
 const PACKAGE = 'com.obytes'; // android package name
 const NAME = 'ObytesApp'; // app name
 const EXPO_ACCOUNT_OWNER = 'dokal'; // expo account owner
-const EAS_PROJECT_ID = '9ff2df3e-155a-43c0-ba9a-619a5d42fefb'; // eas project id
+const EAS_PROJECT_ID = '60033723-a1a2-488b-853f-82d307f81fdb'; // eas project id
 const SCHEME = 'obytesApp'; // app scheme
 
 /**
